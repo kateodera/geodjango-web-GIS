@@ -47,9 +47,5 @@ var baseMaps ={
     'topo':USImageryTopo
 }
 
-var overlayerMaps = {
-    'landMarks':marker
-}
 
-L.control.layers(baseMaps,overlayerMaps, {collapsed:false, position:'topleft'}).addTo(map)
 

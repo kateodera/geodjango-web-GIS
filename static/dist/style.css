@@ -31,3 +31,15 @@
     top: 260px;
 }
 
+.title{
+    font-size: 45px;
+    font-family: sans-serif;
+    text-align: center;
+    background: url(lib/assets/Kenya_flag.png);
+    background-size: contain;
+    color: #fff;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    padding: 0;
+  }
+  
